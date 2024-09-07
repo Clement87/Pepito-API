@@ -44,4 +44,4 @@ Additionally, please add the account link to the list above.
 
 ## Support
 
-For any question, please submit an issue.
+For any question, please submit an issue or send me a Private Message on [X](https://x.com/pepitothecat).
