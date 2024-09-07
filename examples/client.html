@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SSE Client</title>
+</head>
+<body>
+    <h1>SSE Messages</h1>
+    <div id="messages"></div>
+
+    <script>
+        // Create a new EventSource
+        const source = new EventSource('https://api.thecatdoor.com/sse/v1/events');
+
+        // Listen for events when new data arrives
+        source.onmessage = function(event) {
+            // Display the message on the page
+            const messagesDiv = document.getElementById('messages');
+            const newMessage = document.createElement('p');
+            newMessage.textContent = event.data;
+            messagesDiv.appendChild(newMessage);
+        };
+
+        // Listen for errors
+        source.onerror = function(event) {
+            console.error("SSE Error:", event);
+        };
+
+        // Listen for the connection opening
+        source.onopen = function(event) {
+            console.log("SSE connection opened.");
+        };
+    </script>
+</body>
+</html>
