@@ -25,14 +25,14 @@ https://api.thecatdoor.com/sse/v1/events
 Go to [examples](./examples) to see some basic client examples.
 
 ## Pépito's Accounts
-* BlueSky - https://bsky.app/profile/pepitothe-cat.bsky.social
+
 ### Official
 
 * X - https://x.com/pepitothecat
 * TikTok - https://www.tiktok.com/@pepitothecat2007
 
 ### Unofficial
-
+* BlueSky - https://bsky.app/profile/pepitothe-cat.bsky.social
 *Add yours here using PR or issue*
 
 
