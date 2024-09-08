@@ -32,7 +32,7 @@ Go to [examples](./examples) to see some basic client examples.
 * TikTok - https://www.tiktok.com/@pepitothecat2007
 
 ### Unofficial
-
+* BlueSky - https://bsky.app/profile/pepitothe-cat.bsky.social
 *Add yours here using PR or issue*
 
 
