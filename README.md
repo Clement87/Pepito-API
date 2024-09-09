@@ -34,7 +34,7 @@ Go to [examples](./examples) to see some basic client examples.
 ### Unofficial
 
 *Add yours here using PR or issue*
-
+* BlueSky - https://bsky.app/profile/pepitocat.bsky.social
 
 ## Usage Policy
 
