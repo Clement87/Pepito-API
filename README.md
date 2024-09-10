@@ -36,6 +36,7 @@ Go to [examples](./examples) to see some basic client examples.
 *Add yours here using PR or issue*
 * BlueSky - https://bsky.app/profile/pepitothe-cat.bsky.social
 * BlueSky - https://bsky.app/profile/pepitocat.bsky.social
+* Tumblr - https://www.tumblr.com/pepitothecat ([#6](https://github.com/Clement87/Pepito-API/issues/6))
 
 ## Usage Policy
 
