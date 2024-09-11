@@ -37,7 +37,7 @@ Go to [examples](./examples) to see some basic client examples.
 * BlueSky - https://bsky.app/profile/pepitothe-cat.bsky.social
 * BlueSky - https://bsky.app/profile/pepitocat.bsky.social
 * Tumblr - https://www.tumblr.com/pepitothecat ([#6](https://github.com/Clement87/Pepito-API/issues/6))
-* Discord - [Discord Bot Invite](https://discord.com/oauth2/authorize?client_id=1282732564657737788&permissions=2147601408&integration_type=0&scope=bot)
+* Discord - [Discord Bot Invite](https://discord.com/oauth2/authorize?client_id=1282732564657737788)
 
 ## Usage Policy
 
