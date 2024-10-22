@@ -39,6 +39,7 @@ Go to [examples](./examples) to see some basic client examples.
 * Tumblr - https://www.tumblr.com/pepitothecat ([#6](https://github.com/Clement87/Pepito-API/issues/6))
 * Discord - [Discord Bot Invite](https://discord.com/oauth2/authorize?client_id=1282732564657737788&permissions=2147601408&integration_type=0&scope=bot)
 * Mastodon - https://mastodon.social/@PepitoTheCat ([#2](https://github.com/Clement87/Pepito-API/issues/2))
+* Threads - https://www.threads.net/@pepito.thecat
 
 ## Usage Policy
 
