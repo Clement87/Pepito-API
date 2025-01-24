@@ -40,6 +40,7 @@ Go to [examples](./examples) to see some basic client examples.
 * Discord - [Discord Bot Invite](https://discord.com/oauth2/authorize?client_id=1282732564657737788&permissions=2147601408&integration_type=0&scope=bot)
 * Mastodon - https://mastodon.social/@PepitoTheCat ([#2](https://github.com/Clement87/Pepito-API/issues/2))
 * Threads - https://www.threads.net/@pepito.thecat
+* Telegram - Bot name [@Pepito_IO_Bot](https://t.me/Pepito_IO_Bot) - https://github.com/sensifier/PEPITO
 
 ## Usage Policy
 
