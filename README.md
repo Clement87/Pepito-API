@@ -41,6 +41,7 @@ Go to [examples](./examples) to see some basic client examples.
 * Mastodon - https://mastodon.social/@PepitoTheCat ([#2](https://github.com/Clement87/Pepito-API/issues/2))
 * Threads - https://www.threads.net/@pepito.thecat
 * Telegram - Bot name [@Pepito_IO_Bot](https://t.me/Pepito_IO_Bot) - https://github.com/sensifier/PEPITO
+* Is-Pepito-out frontend - [https://is-pepito-out.vercel.app/](https://is-pepito-out.vercel.app)
 
 ## Usage Policy
 
