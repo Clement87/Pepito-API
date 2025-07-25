@@ -1,5 +1,7 @@
 # Pépito-API
 
+![Pépito](pepito.jpeg)
+
 This is the documentation to use the Pépito API.  
 It will let you know when Pépito is *in* or *out* with the corresponding picture.
 
