@@ -1,11 +1,13 @@
 # Pépito-API
 
-This is the documentation to use the Pépito *Server-sent events* (SSE) API.  
+This is the documentation to use the Pépito API.  
 It will let you know when Pépito is *in* or *out* with the corresponding picture.
 
 ## Technical Information
 
-**SSE API Endpoint**
+### SSE API (Real-time updates)
+
+**Endpoint**
 
 ````
 https://api.thecatdoor.com/sse/v1/events
@@ -20,6 +22,24 @@ https://api.thecatdoor.com/sse/v1/events
 {"event":"heartbeat","time":1725714598}
 {"event":"pepito","type":"out","time":1725715521,"img":"https://storage.thecatdoor.com/assets/1725715521-in-722148161.jpg"}
 {"event":"heartbeat","time":1725715532}
+```
+
+### REST API (Last status)
+
+**Endpoint**
+
+````
+https://api.thecatdoor.com/rest/v1/last-status
+````
+
+**Response Example**
+```json
+{
+    "event": "pepito",
+    "type": "in",
+    "time": 1753422874,
+    "img": "https://storage.thecatdoor.com/assets/1753422874-in-181661935.jpg"
+}
 ```
 
 Go to [examples](./examples) to see some basic client examples.
