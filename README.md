@@ -52,6 +52,7 @@ Go to [examples](./examples) to see some basic client examples.
 
 * X - https://x.com/pepitothecat
 * TikTok - https://www.tiktok.com/@pepitothecat2007
+* HomeAssistant Integration - https://github.com/clement87/pepito-homeassistant
 
 ### Unofficial
 
